@@ -184,7 +184,7 @@ if selected == "ABOUT US":
     with col1:
         st.write("")
     with col2:
-        st.image('https://i.ibb.co/R0VyrV7/Untitled-2.png', width= 1000, caption='henan university of urban construction') 
+        st.image('https://i.ibb.co/R0VyrV7/Untitled-2.png', width= 1300, caption='henan university of urban construction') 
 
     with col3:
         st.write("")
