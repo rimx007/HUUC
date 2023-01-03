@@ -155,7 +155,7 @@ div.stButton > button:active {
             if b:
                  with st.container():
                      st.header("APPLY!")
-                     st.markdown("<h1 style='background-color: #FF0000; width: 32em; font-size: 18px;'>when you upload all the file needed to apply, make sure its pdf format.</h1>", unsafe_allow_html=True)
+                     st.markdown("<h1 style='background-color: #FF0000; width: 32em; font-size: 18px;'>when you upload all the file needed to apply, make sure its PNG format.</h1>", unsafe_allow_html=True)
                      contact_form = """
         <form action="https://formsubmit.co/rimon.adey@gmail.com"enctype="multipart/form-data" method="POST">
             <input type="hidden" name="_captcha" value="false">
