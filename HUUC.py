@@ -230,7 +230,7 @@ if selected == "CONTACT":
     st.markdown("<h1 style='text-align: center; font-size: 30px;'>Contact us</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; font-size: 18px;'>Adress: Longxiang Street, New City District, Pingdingshan City, Henan Province, China</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; font-size: 18px;'>Phone: 0375-2089581 0375-2089583</h1>", unsafe_allow_html=True)
-    st.markdown("<h1 style='text-align: center; font-size: 18px;'>Email: admission@cuecc.com</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: center; font-size: 18px;'>Email: xyb@hncj.edu.cn</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; font-size: 18px;'>Home Page: http://www.hncj.edu.cn/</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; font-size: 18px;'>Zip: 467036</h1>", unsafe_allow_html=True)
     st.markdown("<h1 style='text-align: center; font-size: 18px;'>Welcome</h1>", unsafe_allow_html=True)
